@@ -40,4 +40,11 @@ This project uses the **CIFAR-10 dataset** from TensorFlow's built-in `keras.dat
 - **Pillow** 🖼️
 
 ---
+<img width="1918" height="703" alt="image" src="https://github.com/user-attachments/assets/0ad4b5e1-f254-47ce-a937-6b299c6c9341" />
+
+<img width="1272" height="866" alt="image" src="https://github.com/user-attachments/assets/1cdf9d97-66e8-436c-ba58-1af96e692c9a" />
+
+<img width="1703" height="845" alt="image" src="https://github.com/user-attachments/assets/db3341a6-af32-4e03-86a6-0c54d17aec5c" />
+
+
 
